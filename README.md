@@ -1,2 +1,5 @@
-# awesome-plug-and-play-modules
-A repository that brings together a variety of readily usable deep learning modules, including convolution, attention, feature fusion, and more, to help you quickly build your deep learning models.
+<div align="center">
+  <p>
+    <a align="center" href="https://www.zhihu.com/people/cvhub-40" target="_blank">
+      <img width="100%" src="https://github.com/CVHub520/awesome-plug-and-play-modules\assets\CVHub.jpg"></a>
+  </p>
