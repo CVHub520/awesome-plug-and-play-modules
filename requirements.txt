@@ -1,0 +1,5 @@
+# awesome-plug-and-play-modules requirements
+# Usage: pip install -r requirements.txt
+
+pytest
+torch>=1.7.0

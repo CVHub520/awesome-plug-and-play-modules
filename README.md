@@ -17,21 +17,16 @@ A collection of easy-to-use and customizable deep learning modules to help you r
 To install the package, simply run:
 
 ```python3
-pip install deep-learning-modules
+pip install -r requirements.txt
 ```
 
 🔬 Usage
 
-Here is an example of how to use the convolution module:
+Here is an example of how to use the attention module:
 
-```python3
-from deep_learning_modules import Convolution
-
-# Create a convolution layer with 32 filters and a kernel size of 3
-conv_layer = Convolution(num_filters=32, kernel_size=3)
-
-# Apply the convolution layer to an input tensor
-output_tensor = conv_layer(input_tensor)
+```bash
+$ cd attention
+$ pytest
 ```
 
 🌟 Features
