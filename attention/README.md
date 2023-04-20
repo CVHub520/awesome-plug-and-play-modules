@@ -25,7 +25,7 @@
 
 **通道注意力**旨在显示的建模出不同通道之间的相关性，通过网络学习的方式来自动获取到每个特征通道的重要程度，最后再为每个通道赋予不同的权重系数，从而来强化重要的特征抑制非重要的特征。
 
-## [SELayer](https://github.com/CVHub520/awesome-plug-and-play-modules/blob/v1.0/attention/se_layer.py) [🔝](#-目录)
+## [SELayer](https://github.com/CVHub520/awesome-plug-and-play-modules/blob/main/attention/se_layer.py) [🔝](#-目录)
 
 > 标题：Squeeze-and-Excitation Networks</br>
 > 发表：CVPR 2018</br>
