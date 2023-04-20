@@ -1,15 +1,24 @@
 import torch
 
 from se_layer import SELayer
+from eca_layer import ECALayer
 
+
+#---------- Channel Attention ---------- #
 
 def test_se_layer():
-    # 定义测试数据
-    x = torch.randn(2, 16, 32, 32)
-    # 创建注意力模块
+
+    x = torch.randn(2, 16, 64, 64)
     selayer = SELayer(16)
-    # 执行前向传播
     y = selayer(x)
-    # 验证输出的形状是否正确
+
+    assert y.shape == x.shape
+
+def test_eca_layer():
+
+    x = torch.randn(2, 16, 64, 64)
+    selayer = ECALayer(3)
+    y = selayer(x)
+
     assert y.shape == x.shape
 

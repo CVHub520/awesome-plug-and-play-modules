@@ -34,6 +34,15 @@
 ![](https://github.com/CVHub520/awesome-plug-and-play-modules/releases/download/v1.0/SE-Block.png)
 
 
+## [ECALayer](https://github.com/CVHub520/awesome-plug-and-play-modules/blob/main/attention/eca_layer.py) [🔝](#-目录)
+
+> 标题：ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks</br>
+> 发表：CVPR 2020</br>
+> 论文：https://arxiv.org/abs/1910.03151
+
+![](https://github.com/CVHub520/awesome-plug-and-play-modules/releases/download/v1.0/ECA-Block.png)
+
+
 # 空间注意力 [🔝](#-目录)
 
 **空间注意力**旨在提升关键区域的特征表达，本质上是将原始图片中的空间信息通过空间转换模块，变换到另一个空间中并保留关键信息，为每个位置生成权重掩膜并加权输出，从而增强感兴趣的特定目标区域同时弱化不相关的背景区域。
