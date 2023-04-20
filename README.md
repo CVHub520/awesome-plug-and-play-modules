@@ -8,7 +8,7 @@
 
 <!-- vscode-markdown-toc -->
 
-🤖 Deep Learning Modules 🚀
+🤖 Introduction 🚀
 
 A collection of easy-to-use and customizable deep learning modules to help you rapidly build advanced models for computer vision, natural language processing, and more.
 
@@ -49,4 +49,4 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 Thank you for using Deep Learning Modules! If you have any questions or feedback, please feel free and don't hesitate to reach out to us.
 
-![https://github.com/CVHub520/awesome-plug-and-play-modules/blob/main/assets/contact.png]
+![](https://github.com/CVHub520/awesome-plug-and-play-modules/blob/main/assets/contact.png)
